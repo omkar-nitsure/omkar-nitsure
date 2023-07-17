@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Nitsure</h1>
 <h3 align="center">A passionate Computer Science and ML Entusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarnitsureiitb&label=Profile%20views&color=0e75b6&style=flat" alt="omkarnitsureiitb" /> </p>
-
 - 🌱 I’m currently learning **Electrical Engineering, CS, ML and AI at IIT Bombay**
 
 <h3 align="left">Connect with me:</h3>

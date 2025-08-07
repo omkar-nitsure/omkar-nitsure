@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Nitsure</h1>
-<h3 align="center">A passionate EE, CS and ML Entusiast</h3>
+<h3 align="center">A passionate CS student</h3>
 
-- 🌱 I’m currently learning **Electrical Engineering, CS, ML and AI at IIT Bombay**
+- 🌱 I’m pursuing **MSc in CS at ETH Zurich**
 
 - 👨‍💻 All of my projects are available at [https://omkar-nitsure.github.io/](https://omkar-nitsure.github.io/)
 
